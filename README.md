@@ -3,7 +3,7 @@
 - 👀 I’m interested in codes to improve my learning 
 - 🌱 I’m currently learning about computer security 
 - 💞️ I’m looking to collaborate on projects related to my interest 
-- 📫 How to reach me https://htdark.com/index.php?members/deepest.1/
+- 📫 How to reach me https://htdark.com/members/deepest.1/
 
 # 🧠 Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LvL23HT&show_icons=true&theme=radical)
